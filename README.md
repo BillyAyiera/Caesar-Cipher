@@ -1,4 +1,4 @@
-# Caesar-Cipher
+# caesar-cipher
 This is a simple java program that acts as a Caesar cipher to encrypt and decrypt the words keyed in by the user using a key of their choice from numbers 1 to 25. The program prompts the user to key in the requirements and gives the result according to the selected choice. Either encryption or decryption.
 ASCII character code standard is used.
 
