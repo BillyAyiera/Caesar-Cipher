@@ -12,7 +12,7 @@ ASCII character code standard is used.
 ## Setup instructions.
 - Click the clone button on this repo.
 - Get the https link and copy it.
-- On your terminal navigate to the directory you would like the folder to be located then type git clone + https link from Github (paste).
+- On your terminal navigate to the directory you would like the folder to be located then type git clone + https link from Github.
 - Open with your code editor.
 - Run on the terminal. 
 - Enjoy using the cipher.
